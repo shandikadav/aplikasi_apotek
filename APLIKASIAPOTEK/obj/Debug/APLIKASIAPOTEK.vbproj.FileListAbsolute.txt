@@ -1,0 +1,15 @@
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\bin\Debug\APLIKASIAPOTEK.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\bin\Debug\APLIKASIAPOTEK.exe
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\bin\Debug\APLIKASIAPOTEK.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\bin\Debug\APLIKASIAPOTEK.xml
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.login.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.exe
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.xml
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.apoteker.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.operatormain.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.pimpinan.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASIAPOTEK\APLIKASIAPOTEK\obj\Debug\APLIKASIAPOTEK.manajemenakun.resources
